@@ -1,4 +1,4 @@
-# Week 1
+# MongoDb For Node.js Developers - Week 1
 
 [Homework 1.1](hw1_1/hw1_1.md)
 
