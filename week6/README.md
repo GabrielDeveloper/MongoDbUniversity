@@ -4,3 +4,5 @@
 
 [Homework 6.2](hw6_2/hw6_2.md)
 
+[Homework 6.3](hw6_3/hw6_3.md)
+
