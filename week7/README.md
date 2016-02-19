@@ -2,3 +2,5 @@
 
 [Homework 7.1](hw7_1/hw7_1.md)
 
+[Homework 7.2](hw7_2/hw7_2.md)
+
