@@ -8,3 +8,5 @@
 
 [Homework 7.4](hw7_4/hw7_4.md)
 
+[Homework 7.5](hw7_5/hw7_5.md)
+
