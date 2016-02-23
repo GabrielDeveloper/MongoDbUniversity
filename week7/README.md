@@ -6,3 +6,5 @@
 
 [Homework 7.3](hw7_3/hw7_3.md)
 
+[Homework 7.4](hw7_4/hw7_4.md)
+
