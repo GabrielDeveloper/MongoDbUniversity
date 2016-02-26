@@ -14,3 +14,5 @@
 
 ### [Week 7 - APPLICATION ENGINEERING] (week7)
 
+### [Final Project (EXAM)] (finalProject)
+
