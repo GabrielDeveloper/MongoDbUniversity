@@ -10,6 +10,8 @@ Enter the update document you used to solve this problem in the text area below.
 ### Answer
 
 > {"$addToSet":{"reviews": reviewDoc}}
+OR
+> {"$push": {"reviews": reviewDoc}}
 
 ´´´
 
